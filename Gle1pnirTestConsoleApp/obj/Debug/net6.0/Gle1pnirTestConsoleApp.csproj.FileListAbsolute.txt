@@ -1,0 +1,15 @@
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\bin\Debug\net6.0\Gle1pnirTestConsoleApp.exe
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\bin\Debug\net6.0\Gle1pnirTestConsoleApp.deps.json
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\bin\Debug\net6.0\Gle1pnirTestConsoleApp.runtimeconfig.json
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\bin\Debug\net6.0\Gle1pnirTestConsoleApp.dll
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\bin\Debug\net6.0\Gle1pnirTestConsoleApp.pdb
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.AssemblyInfo.cs
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.dll
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\refint\Gle1pnirTestConsoleApp.dll
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.pdb
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\Gle1pnirTestConsoleApp.genruntimeconfig.cache
+C:\Users\vasil\source\repos\Gle1pnirTestConsoleApp\Gle1pnirTestConsoleApp\obj\Debug\net6.0\ref\Gle1pnirTestConsoleApp.dll
